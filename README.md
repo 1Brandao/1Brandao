@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm53cXFibGJtcnJ2OGltY3gxMzNza2ZkNHUxdDRrYm1zeDV5cHI0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif alt="Penguin Coding" width="180px" />
+  <img src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm53cXFibGJtcnJ2OGltY3gxMzNza2ZkNHUxdDRrYm1zeDV5cHI0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif alt="Penguin Coding" width="180px" />
 </p>
 </div>
 
