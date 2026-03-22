@@ -62,8 +62,9 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Brandao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20do%20Github" height="150" alt="stats graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1Brandao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20do%20Github" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1Brandao&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1Brandao&radius=16&theme=github-dark&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -75,6 +76,16 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=1Brandao.1Brandao&"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
 </div>
 
 ###
